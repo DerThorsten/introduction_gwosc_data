@@ -3,7 +3,6 @@
 name: introduction_gwosc_data
 channels:
   - conda-forge
-  - nodefaults
 dependencies:
   - jupyterlab=4.2.5
   - h5py=3.12.1
